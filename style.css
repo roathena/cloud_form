@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+label{
+    width: 200px;
+    display: block;
+}
+input{
+    padding: 0.2rem;
+    margin: 0.5rem 0 1rem 0;
+}
+
+#form-body{
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+}
